@@ -4,8 +4,8 @@
   "description": "Pet Henchmen content from Lawhammer Blog for Warhammer Fantasy Roleplay 4e",
   "version": "1.1.0",
   "author": "Simulacrum",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion" : "9",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion" : "11",
   "systems": ["wfrp4e"],
   "packs": [
     {
